@@ -1,0 +1,11 @@
+C:\Users\v-gavida\Desktop\programs\C# projects\Loops\Loops\bin\Debug\netcoreapp2.0\Loops.deps.json
+C:\Users\v-gavida\Desktop\programs\C# projects\Loops\Loops\bin\Debug\netcoreapp2.0\Loops.runtimeconfig.json
+C:\Users\v-gavida\Desktop\programs\C# projects\Loops\Loops\bin\Debug\netcoreapp2.0\Loops.runtimeconfig.dev.json
+C:\Users\v-gavida\Desktop\programs\C# projects\Loops\Loops\bin\Debug\netcoreapp2.0\Loops.dll
+C:\Users\v-gavida\Desktop\programs\C# projects\Loops\Loops\bin\Debug\netcoreapp2.0\Loops.pdb
+C:\Users\v-gavida\Desktop\programs\C# projects\Loops\Loops\obj\Debug\netcoreapp2.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\v-gavida\Desktop\programs\C# projects\Loops\Loops\obj\Debug\netcoreapp2.0\Loops.AssemblyInfoInputs.cache
+C:\Users\v-gavida\Desktop\programs\C# projects\Loops\Loops\obj\Debug\netcoreapp2.0\Loops.AssemblyInfo.cs
+C:\Users\v-gavida\Desktop\programs\C# projects\Loops\Loops\obj\Debug\netcoreapp2.0\Loops.dll
+C:\Users\v-gavida\Desktop\programs\C# projects\Loops\Loops\obj\Debug\netcoreapp2.0\Loops.pdb
+C:\Users\v-gavida\Desktop\programs\C# projects\Loops\Loops\obj\Debug\netcoreapp2.0\Loops.csprojAssemblyReference.cache

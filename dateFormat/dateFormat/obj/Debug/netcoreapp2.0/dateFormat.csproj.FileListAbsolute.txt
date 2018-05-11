@@ -1,0 +1,10 @@
+C:\Users\v-gavida\Desktop\programs\C# projects\dateFormat\dateFormat\obj\Debug\netcoreapp2.0\dateFormat.csproj.CoreCompileInputs.cache
+C:\Users\v-gavida\Desktop\programs\C# projects\dateFormat\dateFormat\obj\Debug\netcoreapp2.0\dateFormat.AssemblyInfoInputs.cache
+C:\Users\v-gavida\Desktop\programs\C# projects\dateFormat\dateFormat\obj\Debug\netcoreapp2.0\dateFormat.AssemblyInfo.cs
+C:\Users\v-gavida\Desktop\programs\C# projects\dateFormat\dateFormat\bin\Debug\netcoreapp2.0\dateFormat.deps.json
+C:\Users\v-gavida\Desktop\programs\C# projects\dateFormat\dateFormat\bin\Debug\netcoreapp2.0\dateFormat.runtimeconfig.json
+C:\Users\v-gavida\Desktop\programs\C# projects\dateFormat\dateFormat\bin\Debug\netcoreapp2.0\dateFormat.runtimeconfig.dev.json
+C:\Users\v-gavida\Desktop\programs\C# projects\dateFormat\dateFormat\bin\Debug\netcoreapp2.0\dateFormat.dll
+C:\Users\v-gavida\Desktop\programs\C# projects\dateFormat\dateFormat\bin\Debug\netcoreapp2.0\dateFormat.pdb
+C:\Users\v-gavida\Desktop\programs\C# projects\dateFormat\dateFormat\obj\Debug\netcoreapp2.0\dateFormat.dll
+C:\Users\v-gavida\Desktop\programs\C# projects\dateFormat\dateFormat\obj\Debug\netcoreapp2.0\dateFormat.pdb

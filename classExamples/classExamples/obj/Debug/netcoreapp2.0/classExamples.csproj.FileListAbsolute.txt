@@ -1,0 +1,10 @@
+C:\Users\v-gavida\Desktop\programs\C# projects\classExamples\classExamples\obj\Debug\netcoreapp2.0\classExamples.csproj.CoreCompileInputs.cache
+C:\Users\v-gavida\Desktop\programs\C# projects\classExamples\classExamples\obj\Debug\netcoreapp2.0\classExamples.AssemblyInfoInputs.cache
+C:\Users\v-gavida\Desktop\programs\C# projects\classExamples\classExamples\obj\Debug\netcoreapp2.0\classExamples.AssemblyInfo.cs
+C:\Users\v-gavida\Desktop\programs\C# projects\classExamples\classExamples\bin\Debug\netcoreapp2.0\classExamples.deps.json
+C:\Users\v-gavida\Desktop\programs\C# projects\classExamples\classExamples\bin\Debug\netcoreapp2.0\classExamples.runtimeconfig.json
+C:\Users\v-gavida\Desktop\programs\C# projects\classExamples\classExamples\bin\Debug\netcoreapp2.0\classExamples.runtimeconfig.dev.json
+C:\Users\v-gavida\Desktop\programs\C# projects\classExamples\classExamples\bin\Debug\netcoreapp2.0\classExamples.dll
+C:\Users\v-gavida\Desktop\programs\C# projects\classExamples\classExamples\bin\Debug\netcoreapp2.0\classExamples.pdb
+C:\Users\v-gavida\Desktop\programs\C# projects\classExamples\classExamples\obj\Debug\netcoreapp2.0\classExamples.dll
+C:\Users\v-gavida\Desktop\programs\C# projects\classExamples\classExamples\obj\Debug\netcoreapp2.0\classExamples.pdb
