@@ -1,0 +1,11 @@
+C:\Users\v-gavida\Desktop\programs\C# projects\stringManipulation\stringManipulation\bin\Debug\netcoreapp2.0\stringManipulation.deps.json
+C:\Users\v-gavida\Desktop\programs\C# projects\stringManipulation\stringManipulation\bin\Debug\netcoreapp2.0\stringManipulation.runtimeconfig.json
+C:\Users\v-gavida\Desktop\programs\C# projects\stringManipulation\stringManipulation\bin\Debug\netcoreapp2.0\stringManipulation.runtimeconfig.dev.json
+C:\Users\v-gavida\Desktop\programs\C# projects\stringManipulation\stringManipulation\bin\Debug\netcoreapp2.0\stringManipulation.dll
+C:\Users\v-gavida\Desktop\programs\C# projects\stringManipulation\stringManipulation\bin\Debug\netcoreapp2.0\stringManipulation.pdb
+C:\Users\v-gavida\Desktop\programs\C# projects\stringManipulation\stringManipulation\obj\Debug\netcoreapp2.0\stringManipulation.csprojAssemblyReference.cache
+C:\Users\v-gavida\Desktop\programs\C# projects\stringManipulation\stringManipulation\obj\Debug\netcoreapp2.0\stringManipulation.csproj.CoreCompileInputs.cache
+C:\Users\v-gavida\Desktop\programs\C# projects\stringManipulation\stringManipulation\obj\Debug\netcoreapp2.0\stringManipulation.AssemblyInfoInputs.cache
+C:\Users\v-gavida\Desktop\programs\C# projects\stringManipulation\stringManipulation\obj\Debug\netcoreapp2.0\stringManipulation.AssemblyInfo.cs
+C:\Users\v-gavida\Desktop\programs\C# projects\stringManipulation\stringManipulation\obj\Debug\netcoreapp2.0\stringManipulation.dll
+C:\Users\v-gavida\Desktop\programs\C# projects\stringManipulation\stringManipulation\obj\Debug\netcoreapp2.0\stringManipulation.pdb
