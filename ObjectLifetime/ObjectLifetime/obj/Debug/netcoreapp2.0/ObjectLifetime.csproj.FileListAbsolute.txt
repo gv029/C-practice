@@ -1,0 +1,11 @@
+C:\Users\v-gavida\Desktop\programs\C# projects\ObjectLifetime\ObjectLifetime\bin\Debug\netcoreapp2.0\ObjectLifetime.deps.json
+C:\Users\v-gavida\Desktop\programs\C# projects\ObjectLifetime\ObjectLifetime\bin\Debug\netcoreapp2.0\ObjectLifetime.runtimeconfig.json
+C:\Users\v-gavida\Desktop\programs\C# projects\ObjectLifetime\ObjectLifetime\bin\Debug\netcoreapp2.0\ObjectLifetime.runtimeconfig.dev.json
+C:\Users\v-gavida\Desktop\programs\C# projects\ObjectLifetime\ObjectLifetime\bin\Debug\netcoreapp2.0\ObjectLifetime.dll
+C:\Users\v-gavida\Desktop\programs\C# projects\ObjectLifetime\ObjectLifetime\bin\Debug\netcoreapp2.0\ObjectLifetime.pdb
+C:\Users\v-gavida\Desktop\programs\C# projects\ObjectLifetime\ObjectLifetime\obj\Debug\netcoreapp2.0\ObjectLifetime.csprojAssemblyReference.cache
+C:\Users\v-gavida\Desktop\programs\C# projects\ObjectLifetime\ObjectLifetime\obj\Debug\netcoreapp2.0\ObjectLifetime.csproj.CoreCompileInputs.cache
+C:\Users\v-gavida\Desktop\programs\C# projects\ObjectLifetime\ObjectLifetime\obj\Debug\netcoreapp2.0\ObjectLifetime.AssemblyInfoInputs.cache
+C:\Users\v-gavida\Desktop\programs\C# projects\ObjectLifetime\ObjectLifetime\obj\Debug\netcoreapp2.0\ObjectLifetime.AssemblyInfo.cs
+C:\Users\v-gavida\Desktop\programs\C# projects\ObjectLifetime\ObjectLifetime\obj\Debug\netcoreapp2.0\ObjectLifetime.dll
+C:\Users\v-gavida\Desktop\programs\C# projects\ObjectLifetime\ObjectLifetime\obj\Debug\netcoreapp2.0\ObjectLifetime.pdb
