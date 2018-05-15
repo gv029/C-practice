@@ -1,7 +1,0 @@
-C:\Users\v-gavida\Desktop\programs\C# projects\FileManipulation\FileManipulation\bin\Debug\FileManipulation.exe.config
-C:\Users\v-gavida\Desktop\programs\C# projects\FileManipulation\FileManipulation\bin\Debug\FileManipulation.exe
-C:\Users\v-gavida\Desktop\programs\C# projects\FileManipulation\FileManipulation\bin\Debug\FileManipulation.pdb
-C:\Users\v-gavida\Desktop\programs\C# projects\FileManipulation\FileManipulation\obj\Debug\FileManipulation.csprojAssemblyReference.cache
-C:\Users\v-gavida\Desktop\programs\C# projects\FileManipulation\FileManipulation\obj\Debug\FileManipulation.csproj.CoreCompileInputs.cache
-C:\Users\v-gavida\Desktop\programs\C# projects\FileManipulation\FileManipulation\obj\Debug\FileManipulation.exe
-C:\Users\v-gavida\Desktop\programs\C# projects\FileManipulation\FileManipulation\obj\Debug\FileManipulation.pdb
