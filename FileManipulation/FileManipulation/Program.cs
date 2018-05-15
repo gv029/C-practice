@@ -15,6 +15,8 @@ namespace AssembliesAndNamespaces
 
             string x = createFile();
             writeToNewFile(x);
+            restartProgram();
+
 
         }
         static void textWriter()
@@ -43,7 +45,7 @@ namespace AssembliesAndNamespaces
             Console.WriteLine(filelocation);
             myFile.Close();
 
-            return filelocation; 
+            return filelocation;
         }
 
         static void writeToNewFile(string filelocation)
@@ -54,7 +56,25 @@ namespace AssembliesAndNamespaces
 
             File.WriteAllText(filelocation, newSentence);
             Console.WriteLine("text has been written to new at {0}", filelocation);
-            Console.ReadLine();
+            
+        }
+        //This method uses a while loop do restart the program if the user presses the Y key
+        static void restartProgram()
+        {
+            Console.WriteLine("Would you like to create a new file? Press 'Y' to create a new file. Press any other key to exit...");
+            string answer = Console.ReadLine();
+            string answer1 = answer.ToUpper();
+
+            while (answer1 == "Y")
+            {
+                string x = createFile();
+                writeToNewFile(x);
+                Console.WriteLine("Would you like to create a new file? Press 'Y' to create a new file. Press any other key to exit...");
+                answer = Console.ReadLine();
+                answer1 = answer.ToUpper();
+
+            }
+            
         }
     }
 }
